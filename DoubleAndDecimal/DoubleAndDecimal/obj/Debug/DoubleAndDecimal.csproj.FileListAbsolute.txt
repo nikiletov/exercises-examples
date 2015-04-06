@@ -1,0 +1,5 @@
+D:\Visual Studio\DoubleAndDecimal\DoubleAndDecimal\bin\Debug\DoubleAndDecimal.exe.config
+D:\Visual Studio\DoubleAndDecimal\DoubleAndDecimal\bin\Debug\DoubleAndDecimal.exe
+D:\Visual Studio\DoubleAndDecimal\DoubleAndDecimal\bin\Debug\DoubleAndDecimal.pdb
+D:\Visual Studio\DoubleAndDecimal\DoubleAndDecimal\obj\Debug\DoubleAndDecimal.exe
+D:\Visual Studio\DoubleAndDecimal\DoubleAndDecimal\obj\Debug\DoubleAndDecimal.pdb
